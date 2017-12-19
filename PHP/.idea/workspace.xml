@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="02efe83b-19d4-45b6-bfba-bffbfa6209b9" name="Default" comment="">
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/PHP.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/FileSystem.class.php" />
       <change beforePath="" afterPath="$PROJECT_DIR$/Utils.class.php" />
@@ -82,12 +82,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513143648141</updated>
-      <workItem from="1513143649639" duration="171000" />
+      <workItem from="1513143649639" duration="289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171000" />
+    <option name="totallyTimeSpent" value="289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
